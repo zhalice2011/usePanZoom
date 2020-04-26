@@ -1,5 +1,5 @@
 {
-  "name": "gd-use-pan-zoom",
+  "name": "gd-use-pan-and-zoom",
   "version": "0.0.1",
   "description": "Pan and zoom a container using React Hooks",
   "source": "src/index.js",
